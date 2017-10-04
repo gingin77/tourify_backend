@@ -1,24 +1,29 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tourify GitHub Workflow:
 
-Things you may want to cover:
+When working on feature = git push origin feature
 
-* Ruby version
+git fetch & git status (ahead or behind), git diff (state two branches, provides more details on differences)
 
-* System dependencies
+Git checkout master
 
-* Configuration
+Git pull origin master
 
-* Database creation
+Git checkout feature
 
-* Database initialization
+Git merge master
 
-* How to run the test suite
+<resolve conflicts locally with atom>
 
-* Services (job queues, cache servers, search engines, etc.)
+Git push origin feature
 
-* Deployment instructions
+<GitHub pull request to merge feature with the GitHub Master. No conflicts>
 
-* ...
+Git checkout master
+
+Git branch -d feature
+
+Git pull origin master
+
+Git checkout -b feature
