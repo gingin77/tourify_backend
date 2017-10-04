@@ -14,11 +14,11 @@ Git checkout feature
 
 Git merge master
 
-<resolve conflicts locally with atom>
+RESOLVE CONFLICTS LOCALLY WITH ATOM
 
 Git push origin feature
 
-<GitHub pull request to merge feature with the GitHub Master. No conflicts>
+GITHUB PULL REQUEST TO MERGE FEATURE WITH THE GITHUB MASTER. NO CONFLICTS
 
 Git checkout master
 
