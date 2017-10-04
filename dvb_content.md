@@ -50,6 +50,7 @@ Includes site of 1906 invention
 of BC Headache Powder.
 (Intersection of W Main, E Chapel
 Hill, and Morris Sts)
+
 Leaving Five Points and continuing on
 the Downtown Loop, the Warehouse
 District is on the right. Dominated
@@ -62,6 +63,7 @@ and Sons factory and the 1897 Walker
 Warehouse, the oldest example of a
 Neo-Romanesque warehouse, first built
 by the American Tobacco Trust.
+
 CONTINUE ALONG W. MAIN ST
 TO EXTENSION B OR TURN LEFT
 ON W CHAPEL HILL STREET FOR
