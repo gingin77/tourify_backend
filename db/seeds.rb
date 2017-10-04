@@ -3,9 +3,9 @@
 #
 # Examples:
 #
-  movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-
-  Character.create(name: 'Luke', movie: movies.first)
+  # movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
+  #
+  # Character.create(name: 'Luke', movie: movies.first)
 
 
 stop1 = Stop.create(name: 'Durham Visitor Info  Center', description: 'Experience experts are on hand to assist visitors and newcomers with directions, maps, and literature. Also home to Durham’s official marketing agency, the Durham
