@@ -290,3 +290,69 @@ FOLLOW N ROXBORO TO
 EXTENSION E OR TURN LEFT
 ON N ROXBORO TO CONTINUE
 ON TO EXTENSION F.
+
+28 Former Durham County
+Department of Social
+Services: Established in 1919.
+The new social services building
+is at E5. (220 E Main St)
+
+29 Historic Durham County
+Courthouse: Renovated
+1916 neoclassical revival that
+replaced the 1887 courthouse
+that once stood on this site.
+(200 E Main St)
+
+30 Former Durham County
+Judicial Building: Site was
+once the famous Rialto Theater,
+poolroom, barbershop, and jazz
+bar. 201 E Main St)
+31 Celebrate mural by Michael
+Brown. (108 E Main St)
+
+32 Kress Building: Built in 1932,
+one of the largest and most
+elaborately detailed art deco
+buildings in North Carolina and
+the first building in Durham
+to have air conditioning. Now
+luxury condos and offices of
+Greenfire Development. (101 W
+Main St)
+
+33 Historic Baldwin Building:
+1927 neoclassical building; now
+home to loft-style apartments
+and a restaurant. (107 W Main St)
+
+34 1893 Queen Anne-style
+building: The oldest building
+that remains inside the
+Downtown Loop. (111 W Main
+St)
+
+35 “City View” - First National
+Bank Building: Originally
+the site of the 1840s home of
+Durham namesake Dr. Bartlett
+Durham. Present building is the
+neoclassical 1914 First National
+Bank, with notable cast-iron,
+flower-swagged canopy. (123
+W Main St)
+
+36 21c Museum Hotel: This
+boutique hotel is home to a
+museum that is free and open
+to the public. It’s located in
+the historic 1935 art deco Hill
+Building, designed by the same
+architectural firm that designed
+the Empire State Building. (111
+Corcoran St)
+
+END AT THE VISITOR INFO CENTER
+37 Visitor Info Center
+(212 W Main St, #101)
