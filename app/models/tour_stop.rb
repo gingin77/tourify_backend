@@ -1,0 +1,2 @@
+class TourStop < ApplicationRecord
+end
